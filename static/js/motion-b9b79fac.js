@@ -1,0 +1,1 @@
+import{j as o,ad as i,z as a,a2 as n}from"./runtime-core.esm-bundler-8baab2e8.js";const r=o({name:"Motion",props:{delay:{type:Number,default:50}},render(){const{delay:t}=this,e=i("motion");return a(n("div",{},{default:()=>[this.$slots.default()]}),[[e,{initial:{opacity:0,y:100},enter:{opacity:1,y:0,transition:{delay:t}}}]])}});export{r as M};

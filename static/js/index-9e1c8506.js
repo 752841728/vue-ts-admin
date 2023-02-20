@@ -1,0 +1,1 @@
+import{j as e,k as o,l as t}from"./runtime-core.esm-bundler-8baab2e8.js";const n=e({name:"MenuOverflow"}),c=e({...n,setup(a){return(l,r)=>(o(),t("div",null,"目录、菜单文字超出显示 Tooltip 文字提示"))}});export{c as default};
